@@ -1,0 +1,7 @@
+/mnt/files/src/java/quarkus-super-heroes/super-heroes/load-super-heroes/src/main/java/io/quarkus/workshop/superheroes/load/Endpoint.java
+/mnt/files/src/java/quarkus-super-heroes/super-heroes/load-super-heroes/src/main/java/io/quarkus/workshop/superheroes/load/HeroScenario.java
+/mnt/files/src/java/quarkus-super-heroes/super-heroes/load-super-heroes/src/main/java/io/quarkus/workshop/superheroes/load/WeightedRandomResult.java
+/mnt/files/src/java/quarkus-super-heroes/super-heroes/load-super-heroes/src/main/java/io/quarkus/workshop/superheroes/load/ScenarioInvoker.java
+/mnt/files/src/java/quarkus-super-heroes/super-heroes/load-super-heroes/src/main/java/io/quarkus/workshop/superheroes/load/FightScenario.java
+/mnt/files/src/java/quarkus-super-heroes/super-heroes/load-super-heroes/src/main/java/io/quarkus/workshop/superheroes/load/VillainScenario.java
+/mnt/files/src/java/quarkus-super-heroes/super-heroes/load-super-heroes/src/main/java/io/quarkus/workshop/superheroes/load/SuperHeroesLoad.java
